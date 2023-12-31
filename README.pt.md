@@ -1,4 +1,4 @@
-# Calculadora de IMC 🏋
+# Drum Kit 🥁
 
 ![Banner](./img/banner.png)
 
